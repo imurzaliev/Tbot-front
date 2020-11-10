@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Common-Tbot-Front"
+    }
+  },
+  "defaultProject": "Common-Tbot-Front",
+  "cli": {
+    "analytics": "2462b523-8214-47ce-bc0d-0923b719b5c6"
+  }
 }
